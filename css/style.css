@@ -15,6 +15,7 @@ body {
 
 img {
     width: 40%;
+    align-self: center;
 }
 
 .card-block {
