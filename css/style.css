@@ -1,0 +1,35 @@
+body {
+    margin-top: 40px;
+    background: #333;
+    color: #fff;
+}
+
+.weather {
+    color: #333;
+    height: 250px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+img {
+    width: 40%;
+}
+
+.card-block {
+    padding: 10px;
+}
+
+.weather-desc {
+    text-transform: capitalize;
+}
+
+.weather-img {
+    width: 50px;
+}
+
+#map {
+    height: 250px;
+    width: 100%;
+}
